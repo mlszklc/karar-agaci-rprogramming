@@ -4,3 +4,5 @@ istatistiksel hesaplama ve grafikleri için oluşturulan yazılım dilidir.
 
 Karar Ağacı, karar ağaçları hem sınıflandırma (kategorik veriler) hem de regresyon (numerik veriler) problemlerin çözümünde kullanılabilen veri madenciliği ve makine 
 öğrenme algoritmasıdır.
+
+Karar ağaçları çok boyutlu veriyi belirlenmiş özellik üzerindeki bir şart ile parçalara böler. Her seferinde verinin hangi özelliği üzerinde hangi şarta göre işlem yapacağına karar vermek çok büyük bir kombinasyonun çözümüyle mümkündür.
